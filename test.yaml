@@ -1,0 +1,15 @@
+PackageIdentifier: testpackage.testpackage
+PackageVersion: 1.0.0.1
+Publisher: testpackage
+PackageName: testpackage
+License: To me
+Moniker: dxwebsetup
+Installers:
+- InstallerUrl: https://github.com/Lynchne/Lynch/blob/main/dxwebsetup%20(1).exe
+  InstallerSha256: ecc67aa20a461f27d5ca574e16878b2f38fbb6b28bc78870beb495d1590034c5
+  InstallerType: msix
+  Scope: user
+  Architecture: x64
+ManifestType: singleton
+ManifestVersion: 1.0.0
+# Edited with MSIX Hero
